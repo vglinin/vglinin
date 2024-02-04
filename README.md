@@ -7,7 +7,7 @@
 - :seedling: Обязательно вернусь в Школу 21 и попаду на основаное обучение.
 - :zар: Хочу освоить новую проффесию и найти работу.
 І
-- :mailbox: Как связаться со мной: [[Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=TelegramälogoColor=white)] (https://t.me/flllzzz) [l[Gmail Badge](https://img.shields.io/badge/-Gmail-red?style-flat&logo-Gmail&logoColor-white)1(mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [[Telegram Badge]https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=TelegramälogoColor=white (https://t.me/flllzzz) [l[Gmail Badge](https://img.shields.io/badge/-Gmail-red?style-flat&logo-Gmail&logoColor-white)1(mailto:alexeyf08@gmail.com)
 
 </p>
 <h3 align="left">Программирование:</h3>
