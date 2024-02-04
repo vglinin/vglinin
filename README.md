@@ -52,7 +52,7 @@
 
 ---
     
-<h3 align="left">Технологии:</h3>
+### 🌍: Технологии:
 <p align="left"> 
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -82,9 +82,8 @@
 
 ---
 
-<h3 align="left">Инструменты:</h3>
+### :wrench: Инструменты:
 <p align="left"> 
-
 </a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/vglinin/vglinin/assets/156716430/263d07a9-91e6-4638-a0ce-522804a31ca6" alt="mssql" width="40" height="40"/> 
