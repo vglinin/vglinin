@@ -34,7 +34,7 @@
 - :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
 - :seedling: Обязательно вернусь в Школу 21 и попаду на основаное обучение.
 - :zap: Хочу освоить новую проффесию и найти работу.
-- :mailbox: Kak свяSаться Cо мHOй: [![Telegram Badge](https://img.shields.io/badge/-vlglinin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlglinin)[![Gmail Badgel](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glinin.vlad.2002@mail.ru)
+- :mailbox: Kak свяSаться Cо мHOй: [[![Telegram Badge](https://img.shields.io/badge/-vlglinin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlglinin) [![Gmail Badgel](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glinin.vlad.2002@mail.ru)]
 
 ---
 
