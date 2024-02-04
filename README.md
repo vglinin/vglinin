@@ -31,7 +31,7 @@
 ---
 
 ### :man_technologist: Обо мне:
-Я Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBWl/giphy.gif" width="30px">. Мой путь в IT начался с 21 года от компании-торговли, где я получил много массовых знаний, и стал Software Engineer. После интенсива был промежуток в пару месяцев, где я заинтересовался языком Java. И тут начался мой первый путь к Java разработке с 2023 года зарегистрировался на курсах JavaRush, которые я благополучно прошёл и не остановился на этом, а стал развиваться дальше, учить Framework, делать свой проект!
+Я Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с 21 года от компании-торговли, где я получил много массовых знаний, и стал Software Engineer. После интенсива был промежуток в пару месяцев, где я заинтересовался языком Java. И тут начался мой первый путь к Java разработке с 2023 года зарегистрировался на курсах JavaRush, которые я благополучно прошёл и не остановился на этом, а стал развиваться дальше, учить Framework, делать свой проект!
 - :telescope: Изучаю Framework Spring.
 - :seedling: Завершил курсы по Java разработке от JavaRush.
 - :zap: Являюсь Software Engineer в компании AlpineFloor.
