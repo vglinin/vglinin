@@ -139,14 +139,9 @@
 
 
 <table> <tr> <td>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=vglinin&theme=dark&hide_border=true&locale=ru" alt="webDev's Github stats" /> </td>
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=vglinin&theme=dark&background=000000" alt="webDev's Github stats" /> </td>
 <td>
 <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vglinin&layout=compact&theme=vision-friendly-dark" />
 </td>
 </tr>
 </table>
-
-<p align="left"> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vglinin&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vglinin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
