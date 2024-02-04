@@ -4,24 +4,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 <div id="badges" align="center">
-  </a>
   <a href="https://t.me/vlglinin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
-  </a>
   <a href="https://www.youtube.com/@NeuCHil">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
 <p align="center"> 
-  </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://komarev.com/ghpvc/?username=vglinin&style=flat-square&color=blue" alt=""/> 
   </a> 
