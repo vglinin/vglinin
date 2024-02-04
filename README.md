@@ -15,7 +15,6 @@
 </p>
 
 <h3 align="left">Технологии:</h3>
-JUnit, Java Core, Java Collection, Hibernate, Docker, JDBC, JPA.
 <p align="left"> 
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -23,22 +22,34 @@ JUnit, Java Core, Java Collection, Hibernate, Docker, JDBC, JPA.
         </a> 
         
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
+           <img src="https://github.com/vglinin/vglinin/assets/156716430/1d8d3a4b-a006-462d-999b-b91a95f05d19" width="40" height="40"/> 
 </a>
 
+</a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+ 
+</a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/02ea3c0c-ad95-42e8-b33d-1cfb0c7ed85c" alt="docker" width="40" height="40"/> 
+</a>
+ 
  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
+
 </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
-  
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
+  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a> 
