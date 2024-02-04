@@ -5,12 +5,12 @@
 
 <div id="badges">
   </a>
-  <a href="https://t.me/vlglinin">
+  <a href="https://t.me/vlglinin" align="center">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
   </a>
-  <a href="https://www.youtube.com/@NeuCHil">
+  <a href="https://www.youtube.com/@NeuCHil" align="center">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
