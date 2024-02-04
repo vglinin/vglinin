@@ -25,8 +25,6 @@
   Привет 👋, я Влад!
 </h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vglinin&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
-
 ### :man_technologist: Обо мне:
 Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBWl/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я проходил интенсив, но не попал на основаное обучение. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день!
 - :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
@@ -120,3 +118,5 @@
    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/vglinin/vglinin/assets/156716430/5976f3b3-0cfd-4bb3-862d-7f35f03d0446" alt="postgresql" width="40" height="40"/>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vglinin&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
