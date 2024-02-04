@@ -52,7 +52,7 @@
 
 ---
     
-### 🌍: Технологии:
+### :earth_africa: Технологии:
 <p align="left"> 
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
@@ -120,7 +120,7 @@
 
 ---
 
-<h3 align="left">ОС:</h3>
+### :compass: OC:
 <p align="left"> 
   <a href="https://support.microsoft.com/ru-ru/windows" target="_blank" rel="noreferrer">
         <img src="https://github.com/vglinin/vglinin/assets/156716430/c0961651-cbf8-4426-93e3-c66722fabde6" alt="postgresql" width="40" height="40"/>
@@ -128,7 +128,7 @@
 
 ---
 
-<h3 align="left">IDE:</h3>
+### :desktop_computer: IDE:
 <p align="left"> 
    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/vglinin/vglinin/assets/156716430/5976f3b3-0cfd-4bb3-862d-7f35f03d0446" alt="postgresql" width="40" height="40"/>
