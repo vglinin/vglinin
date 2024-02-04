@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <div id="badges" align="center">
   </a>
   <a href="https://t.me/vlglinin">
@@ -89,8 +93,9 @@
 
 ---
 
-### 💻 Codewars:
-![codewars](https://www.codewars.com/users/vglinin/badges/large)
+<!--### 💻 Codewars:
+![codewars](https://www.codewars.com/users/DaVl/badges/large)
+-->
 
 ---
 ### ⚙️ GitHub статистика:
