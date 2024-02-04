@@ -55,36 +55,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-<p align="left"> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-        </a> 
-        
-  </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> 
-           <img src="https://github.com/vglinin/vglinin/assets/156716430/1d8d3a4b-a006-462d-999b-b91a95f05d19" width="40" height="40"/> 
-</a>
-
-</a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
- 
-</a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/vglinin/vglinin/assets/156716430/02ea3c0c-ad95-42e8-b33d-1cfb0c7ed85c" alt="docker" width="40" height="40"/> 
-</a>
- 
- </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>  
-</p>
-
 ---
 
 ### :wrench: Инструменты:
+<div>
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/263d07a9-91e6-4638-a0ce-522804a31ca6" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/a02233fc-3f7d-45bf-b65f-24c4b5d44552" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://www.microsoft.com/en-us/sql-server" title="MsSQL" alt="MsSQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.mysql.com/" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+</div>
+
 <p align="left"> 
 </a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> 
