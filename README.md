@@ -84,8 +84,8 @@
 
 ---
 
-### :desktop_computer: IDE:
-<!--<div>
+<!--### :desktop_computer: IDE:
+<div>
   <img src="https://github.com/vglinin/vglinin/assets/156716430/5976f3b3-0cfd-4bb3-862d-7f35f03d0446" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
 </div>-->
 
