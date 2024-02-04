@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=vglinin&style=flat-square&color=blue" alt="" align="center"/>
+<img src="https://komarev.com/ghpvc/?username=vglinin&style=flat-square&color=blue" alt="" />
 
 <h1 align="center">
   Привет 👋, я Влад!
