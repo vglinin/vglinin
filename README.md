@@ -2,15 +2,13 @@
 
 <h3 align="left">Программирование:</h3>
 <p align="left"> 
-  
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
   <a href="https://1c.ru/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/vglinin/vglinin/assets/156716430/930df78f-1650-402f-9081-ae2cf9dd4199" alt="1С" width="40" height="40"/> 
   </a> 
 </p>
-
 <h3 align="left">Технологии:</h3>
 <p align="left"> 
   </a> 
