@@ -135,9 +135,11 @@
 
 ---
 
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/vglinin/badges/large)
+
+---
 ### ⚙️ GitHub статистика:
-
-
 <table> <tr> <td>
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=vglinin&theme=dark&background=000000" alt="webDev's Github stats" /> </td>
 <td>
