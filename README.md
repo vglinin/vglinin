@@ -39,8 +39,8 @@
 
 ---
 
-</p>
 ### :computer: Программирование:
+</p>
 <p align="left"> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
