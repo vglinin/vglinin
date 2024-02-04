@@ -1,5 +1,5 @@
 ---
-
+<a target="_blank" rel="noopener noreferrer" href="/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg"><img width="600" src="/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;"></a>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -133,6 +133,11 @@
    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/vglinin/vglinin/assets/156716430/5976f3b3-0cfd-4bb3-862d-7f35f03d0446" alt="postgresql" width="40" height="40"/>
 </p>
+
+---
+
+### :statue_of_liberty: Пройденные курсы:
+
 
 ---
 
