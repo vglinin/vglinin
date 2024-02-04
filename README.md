@@ -75,19 +75,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
+<!--
 ---
 
-<!--### :compass: OC:
+### :compass: OC:
 <div>
   <img src="https://github.com/vglinin/vglinin/assets/156716430/c0961651-cbf8-4426-93e3-c66722fabde6" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-</div>-->
+</div>
 
 ---
 
 <!--### :desktop_computer: IDE:
 <div>
   <img src="https://github.com/vglinin/vglinin/assets/156716430/5976f3b3-0cfd-4bb3-862d-7f35f03d0446" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
-</div>-->
+</div>
 
 ---
 
