@@ -39,27 +39,36 @@
  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-</a>
+</a>  
+</p>
+
+<h3 align="left">Инструменты:</h3>
+<p align="left"> 
 
 </a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/vglinin/vglinin/assets/156716430/263d07a9-91e6-4638-a0ce-522804a31ca6" alt="mssql" width="40" height="40"/> 
+  </a> 
+
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/vglinin/vglinin/assets/156716430/a02233fc-3f7d-45bf-b65f-24c4b5d44552" alt="mssql" width="40" height="40"/> 
+  </a> 
+  
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
   </a> 
+  
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
+  
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a> 
-      
-</p>
-
-<h3 align="left">Инструменты:</h3>
-Gradle, Maven.
-<p align="left"> 
-  
 </p>
 
 <h3 align="left">База данных:</h3>
