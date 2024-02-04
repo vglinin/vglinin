@@ -7,7 +7,7 @@
 - :seedling: Обязательно вернусь в Школу 21 и попаду на основаное обучение.
 - :zар: Хочу освоить новую проффесию и найти работу.
 І
-- :mailbox: Kak свяSаться Cо мHOй: [![Telegram Badge](https://img.shields.io/badge/-vlglinin-blue?style=flat&logo=Telegram&logoColor=white)] https://t.me/vlglinin [i[Gmail Badgel] (https://img.shields.io/badge/-Gmail-red/style-flat&logo-Gmail&logoColor-white)](mailto:glinin.vlad.2002@mail.ru)
+- :mailbox: Kak свяSаться Cо мHOй: [![Telegram Badge](https://img.shields.io/badge/-vlglinin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlglinin) [i[Gmail Badgel] (https://img.shields.io/badge/-Gmail-red/style-flat&logo-Gmail&logoColor-white)](mailto:glinin.vlad.2002@mail.ru)
 
 </p>
 <h3 align="left">Программирование:</h3>
