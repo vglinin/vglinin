@@ -40,7 +40,7 @@
 ---
 
 </p>
-<h3 align="left">Программирование:</h3>
+### :computer: Программирование:
 <p align="left"> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -113,7 +113,7 @@
 
 ---
 
-<h3 align="left">База данных:</h3>
+### :office: База данных:
 <p align="left"> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -137,7 +137,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vglinin&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vglinin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
