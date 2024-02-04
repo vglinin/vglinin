@@ -10,8 +10,7 @@
   
   </a> 
   <a href="https://1c.ru/" target="_blank" rel="noreferrer"> 
-    <img src="![image](https://github.com/vglinin/vglinin/assets/156716430/bf4e66bb-fb60-4e8d-80a9-a3caee4a2826)
-" alt="1С" width="40" height="40"/> 
+    <img src="https://github.com/vglinin/vglinin/assets/156716430/930df78f-1650-402f-9081-ae2cf9dd4199" alt="1С" width="40" height="40"/> 
   </a> 
 </p>
 
