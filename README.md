@@ -1,6 +1,10 @@
+---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+---
 
 <div id="badges" align="center">
   </a>
@@ -21,9 +25,13 @@
   </a> 
 </p>
 
+---
+
 <h1 align="center">
   Привет 👋, я Влад!
 </h1>
+
+---
 
 ### :man_technologist: Обо мне:
 Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBWl/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я проходил интенсив, но не попал на основаное обучение. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день!
@@ -32,6 +40,8 @@
 - :zар: Хочу освоить новую проффесию и найти работу.
 І
 - :mailbox: Kak свяSаться Cо мHOй: [![Telegram Badge](https://img.shields.io/badge/-vlglinin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlglinin) [![Gmail Badgel](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glinin.vlad.2002@mail.ru)
+
+---
 
 </p>
 <h3 align="left">Программирование:</h3>
@@ -43,6 +53,8 @@
     <img src="https://github.com/vglinin/vglinin/assets/156716430/930df78f-1650-402f-9081-ae2cf9dd4199" alt="1С" width="40" height="40"/> 
   </a> 
 </p>
+
+---
     
 <h3 align="left">Технологии:</h3>
 <p align="left"> 
@@ -71,6 +83,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>  
 </p>
+
+---
 
 <h3 align="left">Инструменты:</h3>
 <p align="left"> 
@@ -101,11 +115,15 @@
     </a> 
 </p>
 
+---
+
 <h3 align="left">База данных:</h3>
 <p align="left"> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
+
+---
 
 <h3 align="left">ОС:</h3>
 <p align="left"> 
@@ -113,10 +131,15 @@
         <img src="https://github.com/vglinin/vglinin/assets/156716430/c0961651-cbf8-4426-93e3-c66722fabde6" alt="postgresql" width="40" height="40"/>
 </p>
 
+---
+
 <h3 align="left">IDE:</h3>
 <p align="left"> 
    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/vglinin/vglinin/assets/156716430/5976f3b3-0cfd-4bb3-862d-7f35f03d0446" alt="postgresql" width="40" height="40"/>
 </p>
 
+---
+
+### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vglinin&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
