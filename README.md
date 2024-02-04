@@ -14,7 +14,12 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=vglinin&style=flat-square&color=blue" alt="" align="center"/>
+<p align="center"> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://komarev.com/ghpvc/?username=vglinin&style=flat-square&color=blue" alt=""/> 
+  </a> 
+</p>
 
 <h1 align="center">
   Привет 👋, я Влад!
