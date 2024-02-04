@@ -33,9 +33,8 @@
 Я начинающий Java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBWl/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я проходил интенсив, но не попал на основаное обучение. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года начался мой путь в веб разработке на курсах Яндекс Практикума, где я обучаюсь по сей день!
 - :telescope: Изучаю веб-разработку на курсах Яндекс Практикум!
 - :seedling: Обязательно вернусь в Школу 21 и попаду на основаное обучение.
-- :zар: Хочу освоить новую проффесию и найти работу.
-І
-- :mailbox: Kak свяSаться Cо мHOй: [![Telegram Badge](https://img.shields.io/badge/-vlglinin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlglinin) [![Gmail Badgel](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glinin.vlad.2002@mail.ru)
+- :zap: Хочу освоить новую проффесию и найти работу.
+- :mailbox: Kak свяSаться Cо мHOй: [![Telegram Badge](https://img.shields.io/badge/-vlglinin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlglinin)[![Gmail Badgel](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glinin.vlad.2002@mail.ru)
 
 ---
 
