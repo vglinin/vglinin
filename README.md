@@ -44,19 +44,17 @@
   <img src="https://github.com/vglinin/vglinin/assets/156716430/930df78f-1650-402f-9081-ae2cf9dd4199" title="1C" alt="1C" width="40" height="40"/>&nbsp;
 </div>
 
-</p>
-<p align="left"> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
-  <a href="https://1c.ru/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/vglinin/vglinin/assets/156716430/930df78f-1650-402f-9081-ae2cf9dd4199" alt="1С" width="40" height="40"/> 
-  </a> 
-</p>
-
 ---
     
 ### :earth_africa: Технологии:
+<div>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/1d8d3a4b-a006-462d-999b-b91a95f05d19" title="Junit5" alt="Junit5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/02ea3c0c-ad95-42e8-b33d-1cfb0c7ed85c" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
+
 <p align="left"> 
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
