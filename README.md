@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   </a>
-  <a href="https://t.me/vlglinin" align="center">
+  <a href="https://t.me/vlglinin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
   </a>
-  <a href="https://www.youtube.com/@NeuCHil" align="center">
+  <a href="https://www.youtube.com/@NeuCHil">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
@@ -19,7 +19,6 @@
 
 <h1>
   Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, я Влад!
-  
 </h1>
 
 ### :man_technologist: Обо мне:
