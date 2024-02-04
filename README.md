@@ -9,6 +9,7 @@
     <img src="https://github.com/vglinin/vglinin/assets/156716430/930df78f-1650-402f-9081-ae2cf9dd4199" alt="1С" width="40" height="40"/> 
   </a> 
 </p>
+    
 <h3 align="left">Технологии:</h3>
 <p align="left"> 
   </a> 
@@ -73,13 +74,13 @@
 </p>
 
 <h3 align="left">ОС:</h3>
-Windows
 <p align="left"> 
-  
+  <a href="https://support.microsoft.com/ru-ru/windows" target="_blank" rel="noreferrer">
+        <img src="https://github.com/vglinin/vglinin/assets/156716430/c0961651-cbf8-4426-93e3-c66722fabde6" alt="postgresql" width="40" height="40"/>
 </p>
 
 <h3 align="left">IDE:</h3>
-IDE JetBrains
 <p align="left"> 
-  
+   <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/vglinin/vglinin/assets/156716430/5976f3b3-0cfd-4bb3-862d-7f35f03d0446" alt="postgresql" width="40" height="40"/>
 </p>
