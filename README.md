@@ -62,7 +62,7 @@
 <div>
   <img src="https://github.com/vglinin/vglinin/assets/156716430/263d07a9-91e6-4638-a0ce-522804a31ca6" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vglinin/vglinin/assets/156716430/757c13cb-5434-4ec1-a28e-8cde4793360a" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/vglinin/vglinin/assets/156716430/152ee793-4585-4cd1-aa35-b38c543e937f" title="JavaDoc" alt="JavaDoc" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/c00909af-ff7f-422c-8af1-547e6ca3763e" title="JavaDoc" alt="JavaDoc" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vglinin/vglinin/assets/156716430/5976f3b3-0cfd-4bb3-862d-7f35f03d0446" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vglinin/vglinin/assets/156716430/c2bc21fc-d40e-4001-a48f-63acd53ae437" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
