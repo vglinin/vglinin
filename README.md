@@ -81,7 +81,7 @@
 
 ### :dizzy: Принципы:
 <div>
-  <img src="1. KISS" title="KISS" alt="KISS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/05cf1b67-1667-4e91-a27b-2ab04256c4ce" title="KISS" alt="KISS" width="40" height="40"/>&nbsp;
   <img src="2. DRY" title="DRY" alt="DRY" width="40" height="40"/>&nbsp;
   <img src="3. YAGNI" title="YAGNI" alt="YAGNI" width="40" height="40"/>&nbsp;
 </div>
