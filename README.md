@@ -77,6 +77,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :dizzy: Принципы:
+<div>
+  <img src="1. KISS" title="KISS" alt="KISS" width="40" height="40"/>&nbsp;
+  <img src="2. DRY" title="DRY" alt="DRY" width="40" height="40"/>&nbsp;
+  <img src="3. YAGNI" title="YAGNI" alt="YAGNI" width="40" height="40"/>&nbsp;
+</div>
 <!--
 ---
 
