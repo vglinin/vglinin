@@ -81,9 +81,9 @@
 
 ### :dizzy: Принципы:
 <div>
-  <img src="https://github.com/vglinin/vglinin/assets/156716430/05cf1b67-1667-4e91-a27b-2ab04256c4ce" title="KISS" alt="KISS" width="40" height="40"/>&nbsp;
-  <img src="2. DRY" title="DRY" alt="DRY" width="40" height="40"/>&nbsp;
-  <img src="3. YAGNI" title="YAGNI" alt="YAGNI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/75012266-d940-4d39-9512-7e28af113a96" title="KISS" alt="KISS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/05cf1b67-1667-4e91-a27b-2ab04256c4ce" title="DRY" alt="DRY" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vglinin/vglinin/assets/156716430/fda0a48b-67b5-4864-840c-ee40491d7b86" title="YAGNI" alt="YAGNI" width="40" height="40"/>&nbsp;
 </div>
 <!--
 ---
