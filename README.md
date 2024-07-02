@@ -31,9 +31,7 @@
 ---
 
 ### :man_technologist: Обо мне:
-Я Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с 22 года от компании-торговли, где я получил много массовых знаний, и стал Software Engineer. После интенсива был промежуток в пару месяцев, где я заинтересовался языком Java. И тут начался мой первый путь к Java Development с конца 2023 года зарегистрировался на курсах JavaRush, которые я благополучно прошёл за 1.5 месяц, и не остановился на этом, а стал развиваться дальше, учить Framework, делать свои проекты!
-- :telescope: Изучаю Framework Spring.
-- :seedling: Завершил курсы по Java разработке от JavaRush.
+Я Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с 22 года от компании-торговли, где я получил много массовых знаний, и стал Software Engineer.
 - :zap: Являюсь Software Engineer в компании AlpineFloor.
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vlglinin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlglinin) [![Gmail Badgel](https://img.shields.io/badge/-Gmail-red?style-flat&logo-Gmail&logoColor-white)](mailto:glinin.vlad.2000@mail.ru)
 
