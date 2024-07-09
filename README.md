@@ -12,10 +12,11 @@
   <a href="https://t.me/vlglinin">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  
+<!--
   <a href="https://www.youtube.com/@NeuCHil">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a
+-->
 </div>
 
 <p align="center"> 
