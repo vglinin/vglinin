@@ -33,7 +33,7 @@
 
 ### :man_technologist: Обо мне:
 Я Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с 22 года от компании-торговли, где я получил много массовых знаний, и стал Software Engineer.
-- :zap: Являюсь Software Engineer в компании AlpineFloor.
+- :zap: Являюсь Software Engineer в компании SONERIC(ERICSSON).
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-vlglinin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlglinin) [![Gmail Badgel](https://img.shields.io/badge/-Gmail-red?style-flat&logo-Gmail&logoColor-white)](mailto:glinin.vlad.2000@mail.ru)
 
 ---
