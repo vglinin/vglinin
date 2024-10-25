@@ -45,7 +45,8 @@
 </div>
 
 ---
-    
+
+<!--
 ### :earth_africa: Технологии:
 <div>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -76,6 +77,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+---
 ---
 
 <!--
