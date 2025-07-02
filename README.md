@@ -41,6 +41,7 @@
 ### :computer: Программирование:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="1C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vglinin/vglinin/assets/156716430/930df78f-1650-402f-9081-ae2cf9dd4199" title="1C" alt="1C" width="40" height="40"/>&nbsp;
 </div>
 
