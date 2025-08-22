@@ -40,7 +40,8 @@
 
 ### :computer: Программирование:
 <div>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png?f=webp" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" title="Java" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen.png" title="C++" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/732/732250.png" title="Swift" alt="1C" width="40" height="40"/>&nbsp;
